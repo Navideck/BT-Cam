@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>BT cameras - Appcast</title>
+        <!-- <item>
+            <title>Version 2.0.0</title>
+            <description>Major update.</description>
+            <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
+            <enclosure url="https://store.microsoft.com/store/apps/details?id=2265Navideck.BTCam" sparkle:version="2.0.0" sparkle:os="windows" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.navideck.sonybt" sparkle:version="2.0.0" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item> -->
+    </channel>
+</rss>
