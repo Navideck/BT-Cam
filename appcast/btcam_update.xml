@@ -7,11 +7,27 @@
             <title>Version 2.0.0</title>
             <description>Major update.</description>
             <pubDate>Sun, 24/3/2024 07:00:00 +0000</pubDate>
-            <enclosure url="https://store.microsoft.com/store/apps/details?id=2265Navideck.BTCam" sparkle:version="2.0.0" sparkle:os="windows" />
-            <enclosure url="https://play.google.com/store/apps/details?id=com.navideck.sonybt" sparkle:version="2.0.0" sparkle:os="android" />
+            <enclosure url="https://store.microsoft.com/store/apps/details?id=2265Navideck.BTCam"
+        sparkle:version="2.0.0" sparkle:os="windows" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.navideck.sonybt"
+        sparkle:version="2.0.0" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
         </item> -->
+        <item>
+            <title>Version 3.3.1</title>
+            <sparkle:shortVersionString>3.3.1</sparkle:shortVersionString>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:releaseNotesLink>
+                https://github.com/Navideck/BT-Cam/releases/tag/3.3.1
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 15/5/2025 12:43:16 +0000</pubDate>
+            <enclosure url="https://github.com/Navideck/BT-Cam/releases/download/4.2.1/bt_cam_4.2.1.zip"
+                sparkle:edSignature="CbIOj22NYJG6T4ny+8/fALGXp7WL6N4dt+QsyuKEy6DBsQ9djzygwhQLaBX3rbHnrLS+hAjk3p5Fe6RsoewDBA=="
+                sparkle:os="macos"
+                length="48300625"
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
