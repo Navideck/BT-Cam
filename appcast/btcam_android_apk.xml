@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>BT cameras - Appcast</title>
+        <item>
+            <title>Version 3.3.0</title>
+            <sparkle:version>3.3.0</sparkle:version>
+            <description>Major update.</description>
+            <pubDate>Sun, 20/5/2025 07:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/Navideck/BT-Cam/releases/download/3.2.1/bt_cam.apk" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+    </channel>
+</rss>
