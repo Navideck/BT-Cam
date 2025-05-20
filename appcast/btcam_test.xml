@@ -33,7 +33,6 @@
                 sparkle:os="macos_store"
             />
         </item>
-
         <!-- Android Store -->
         <item>
             <title>Version 3.3.1</title>
@@ -41,7 +40,7 @@
             <sparkle:version>3.3.1</sparkle:version>
             <description>Major update.</description>
             <pubDate>Thu, 15/5/2025 12:43:16 +0000</pubDate>
-            <enclosure 
+            <enclosure
                 url="https://play.google.com/store/apps/details?id=com.navideck.sonybt"
                 sparkle:os="android"
             />
@@ -53,7 +52,7 @@
             <sparkle:version>3.3.1</sparkle:version>
             <description>Major update.</description>
             <pubDate>Sun, 20/5/2025 07:00:00 +0000</pubDate>
-            <enclosure 
+            <enclosure
                 url="https://github.com/Navideck/BT-Cam/releases/download/3.2.1/bt_cam.apk"
                 sparkle:os="android_apk"
             />
@@ -68,13 +67,25 @@
             <sparkle:version>3.3.1</sparkle:version>
             <description>Major update.</description>
             <pubDate>Sun, 20/5/2025 07:00:00 +0000</pubDate>
-            <enclosure 
+            <enclosure
                 url="https://apps.apple.com/sg/app/bt-cam-for-sony-canon-nikon/id6443771044"
                 sparkle:os="ios"
             />
             <sparkle:tags>
                 <sparkle:criticalUpdate />
             </sparkle:tags>
+        </item>
+        <!-- Windows Store -->
+        <item>
+            <title>Version 3.3.1</title>
+            <sparkle:os>windows</sparkle:os>
+            <sparkle:version>3.3.1</sparkle:version>
+            <description>Major update.</description>
+            <pubDate>Thu, 15/5/2025 12:43:16 +0000</pubDate>
+            <enclosure
+                url="https://store.microsoft.com/store/apps/details?id=2265Navideck.BTCam"
+                sparkle:os="windows"
+            />
         </item>
     </channel>
 </rss>
