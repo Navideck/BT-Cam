@@ -4,11 +4,11 @@ date: "2024-05-02"
 excerpt: "New to BT Cam? Learn how to install the app, connect your camera, and take your first remote shot in just a few easy steps."
 description: "A step-by-step beginner's guide to setting up BT Cam, connecting your camera via Bluetooth, and capturing your first remote photo. Perfect for new users looking for a quick start."
 author: "BT Cam Team"
-coverImage: "/images/bt-cam-getting-started.jpg"
+coverImage: "images/bt-cam-getting-started.jpg"
 tags: ["tutorials", "beginner", "BT Cam"]
-ogImage: "/images/bt-cam-og.jpg"
+ogImage: "images/bt-cam-getting-started.jpg"
 category: "Tutorials"
-readingTime: "5 min read"
+readingTime: 5
 ---
 
 # Getting Started with [BT Cam](https://www.btcam.app): A Beginner's Guide
