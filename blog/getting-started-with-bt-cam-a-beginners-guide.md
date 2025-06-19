@@ -11,9 +11,9 @@ category: "Tutorials"
 readingTime: 5
 ---
 
-# Getting Started with [BT Cam](https://www.btcam.app): A Beginner's Guide
+# Getting Started with BT Cam: A Beginner's Guide
 
-Welcome to [BT Cam](https://www.btcam.app)! If you've just downloaded our app, this guide will help you get started with connecting to your camera and taking your first remote shots.
+Welcome to BT Cam! If you've just downloaded our app, this guide will help you get started with connecting to your camera and taking your first remote shots.
 
 ---
 
@@ -32,7 +32,7 @@ Make sure your camera's Bluetooth is enabled. The exact steps vary by camera mod
 
 ## Step 3: Connect Your Camera
 
-In the [BT Cam](https://www.btcam.app) app:
+In the BT Cam app:
 
 - Tap on "Add Camera" or the "+" button
 - Select your camera brand
@@ -56,4 +56,4 @@ If you're having trouble connecting:
 - Make sure your camera's firmware is up to date
 - Ensure Bluetooth is enabled on both your camera and phone
 - Try restarting both your camera and phone
-- Check that your camera model is supported by [BT Cam](https://www.btcam.app)
+- Check that your camera model is supported by BT Cam
