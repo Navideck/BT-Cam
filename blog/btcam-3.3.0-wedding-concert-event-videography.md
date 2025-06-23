@@ -1,19 +1,19 @@
 ---
-title: "BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings, Concerts, and Live Events"
+title: "BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings and Events"
 date: "2025-06-22"
-excerpt: "The new 3.3.0 update of BT Cam delivers powerful new tools that change how event videographers handle multi-camera shoots—whether at weddings, concerts, or live shows."
-description: "BT Cam 3.3.0 introduces essential features for wedding, concert and event videographers: recording logs, real-time sync, Bluetooth volume shutter, and more. Discover how it transforms your multi-camera workflow."
+excerpt: "The new 3.3.0 update of BT Cam delivers powerful new tools that change how event videographers handle multi-camera shoots—whether at weddings and ceremonies."
+description: "BT Cam 3.3.0 introduces essential features for wedding and event videographers: recording logs, real-time sync, Bluetooth volume shutter, and more. Discover how it transforms your multi-camera workflow."
 author: "BT Cam Team"
-coverImage: "images/btcam-3.3.0-wedding-concert-event-videography.jpg"
-tags: ["BT Cam", "camera apps", "event videography", "bluetooth camera control", "DSLR remote app", "wedding", "concert", "live show"]
-ogImage: "images/btcam-3.3.0-wedding-concert-event-videography.jpg"
+coverImage: "images/bt-cam-wedding-videography.jpg.jpg"
+tags: ["BT Cam", "camera apps", "event videography", "bluetooth camera control", "DSLR remote app", "wedding", "ceremony"]
+ogImage: "images/bt-cam-wedding-videography.jpg.jpg"
 category: "Event videography"
 readingTime: 6
 ---
 
-# BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings, Concerts, and Live Events
+# BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings and Ceremonies
 
-Managing multiple cameras during **weddings, concerts, or live shows** is no easy task. You’re trying to capture every angle, ensure everything is recording, and avoid technical mishaps—all while staying invisible in the moment.
+Managing multiple cameras during **weddings,  or ceremonies** is no easy task. You’re trying to capture every angle, ensure everything is recording, and avoid technical mishaps—all while staying invisible in the moment.
 
 **BT Cam 3.3.0** changes that.
 
@@ -71,10 +71,9 @@ It’s not just frustrating—it’s inefficient and prone to mistakes.
 
 Whether you're shooting a 3-camera wedding ceremony, a 2-camera stage performance, or a documentary with roaming angles, **BT Cam is your mobile command center**.
 
-* 🎤 **Live Concerts:** Keep tabs on every camera in a loud, chaotic environment.
-* 💒 **Weddings:** Quietly trigger cameras from the back of the church.
+* 💒 **Weddings:** Quietly trigger cameras from the back of the event hall.
 * 🎓 **Ceremonies:** Start/stop multiple cameras without distracting the moment.
-* 🎭 **Theatre & Performances:** Monitor status and time at a glance.
+* ⏱️ **Stay in control:** Monitor status and time at a glance.
 
 ---
 
