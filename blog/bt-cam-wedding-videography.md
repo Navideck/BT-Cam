@@ -78,5 +78,3 @@ Whether you're shooting a 3-camera wedding ceremony, a 2-camera stage performanc
 ## 🎯 Ready to Revolutionize Your Workflow?
 
 BT Cam 3.3.0 isn’t just another update—it’s a leap forward for anyone serious about **multi-camera event coverage**.
-
-👉 [Download BT Cam now](https://btcam.app) and take full control of your next shoot.
