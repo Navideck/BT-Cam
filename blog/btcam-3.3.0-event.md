@@ -1,6 +1,6 @@
 ---
 title: "BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings, Concerts, and Live Events"
-date: "2025-06-23"
+date: "2025-06-22"
 excerpt: "The new 3.3.0 update of BT Cam delivers powerful new tools that change how event videographers handle multi-camera shoots—whether at weddings, concerts, or live shows."
 description: "BT Cam 3.3.0 introduces essential features for wedding and event videographers: recording logs, real-time sync, Bluetooth volume shutter, and more. Discover how it transforms your multi-camera workflow."
 author: "BT Cam Team"
