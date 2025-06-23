@@ -1,19 +1,19 @@
 ---
-title: "BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings and Events"
+title: "BT Cam: The Ultimate Multi-Camera App for Weddings and Events"
 date: "2025-06-22"
 excerpt: "The new 3.3.0 update of BT Cam delivers powerful new tools that change how event videographers handle multi-camera shoots—whether at weddings and ceremonies."
 description: "BT Cam 3.3.0 introduces essential features for wedding and event videographers: recording logs, real-time sync, Bluetooth volume shutter, and more. Discover how it transforms your multi-camera workflow."
 author: "BT Cam Team"
-coverImage: "images/bt-cam-wedding-videography.jpg.jpg"
+coverImage: "images/bt-cam-wedding-videography.jpg"
 tags: ["BT Cam", "camera apps", "event videography", "bluetooth camera control", "DSLR remote app", "wedding", "ceremony"]
-ogImage: "images/bt-cam-wedding-videography.jpg.jpg"
+ogImage: "images/bt-cam-wedding-videography.jpg"
 category: "Event videography"
 readingTime: 6
 ---
 
 # BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings and Ceremonies
 
-Managing multiple cameras during **weddings,  or ceremonies** is no easy task. You’re trying to capture every angle, ensure everything is recording, and avoid technical mishaps—all while staying invisible in the moment.
+Managing multiple cameras during **weddings, or ceremonies** is no easy task. You’re trying to capture every angle, ensure everything is recording, and avoid technical mishaps—all while staying invisible in the moment.
 
 **BT Cam 3.3.0** changes that.
 
