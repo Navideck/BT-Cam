@@ -11,8 +11,6 @@ category: "Event videography"
 readingTime: 6
 ---
 
-# BT Cam 3.3.0: The Ultimate Multi-Camera App for Weddings and Ceremonies
-
 Managing multiple cameras during **weddings, or ceremonies** is no easy task. You’re trying to capture every angle, ensure everything is recording, and avoid technical mishaps—all while staying invisible in the moment.
 
 **BT Cam 3.3.0** changes that.

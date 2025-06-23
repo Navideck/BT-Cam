@@ -11,8 +11,6 @@ category: "Tutorials"
 readingTime: 5
 ---
 
-# Getting Started with BT Cam: A Beginner's Guide
-
 Welcome to BT Cam! If you've just downloaded our app, this guide will help you get started with connecting to your camera and taking your first remote shots.
 
 ---
