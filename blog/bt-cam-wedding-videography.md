@@ -24,9 +24,6 @@ This update brings a suite of highly requested features designed especially for 
 * **Elapsed Recording Time:** See exactly how long each camera has been rolling.
 * **Session Logs:** Automatically log every start/stop across all cameras—and export it when you're done.
 * **Smoother Multi-Camera Sync:** Better coordination for simultaneous start/stop across different camera brands.
-* **Shutter via Volume Buttons:** Trigger the shutter without looking at your screen—ideal when you're on the move.
-* **Improved Canon Setup:** Updated guidance and clearer error messaging.
-* **System Pairing Preference:** Choose system-level Bluetooth pairing for greater compatibility.
 
 > These upgrades are the result of real-world feedback from wedding shooters, live music pros, and documentary filmmakers who rely on multi-camera setups every week.
 
