@@ -6,7 +6,7 @@ excerpt: "BT Cam’s latest update reimagines multi-camera control for concert v
 description: "Version 3.3.0 of BT Cam adds must-have tools for live show production, including synchronized recording across camera brands, automatic session logging, and Bluetooth shutter control. Ideal for concerts, theater, and live broadcasts."
 author: "BT Cam Team"
 coverImage: "images/bt-cam-concert-videography.jpg"
-tags: \["BT Cam", "camera apps", "concert videography", "live production", "multi-camera setup", "bluetooth remote"]
+tags: ["BT Cam", "camera apps", "concert videography", "live production", "multi-camera setup", "bluetooth remote"]
 ogImage: "images/bt-cam-concert-videography.jpg"
 category: "Event videography"
 readingTime: 6
