@@ -1,4 +1,3 @@
-
 ---
 
 title: "BT Cam 3.5: It’s About Time"
