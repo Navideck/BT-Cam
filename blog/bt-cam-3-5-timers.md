@@ -5,9 +5,9 @@ date: "2025-08-07"
 excerpt: "BT Cam 3.5 introduces smarter timers for every kind of shoot—whether you're setting up a quick delay, a long exposure, or a fully automated shooting script."
 description: "From fast smartphone-style timers to advanced interval setups and programmable scripts, BT Cam 3.5 puts total timing control in your hands. Here’s what’s new."
 author: "BT Cam Team"
-coverImage: "images/bt-cam-3-5-timers.png"
+coverImage: "images/bt-cam-3-5-timers.jpg"
 tags: \["BT Cam", "bluetooth camera control", "photography automation", "script timer", "timelapse", "bulb mode", "dslr timer", "video"]
-ogImage: "images/bt-cam-3-5-timers.png"
+ogImage: "images/bt-cam-3-5-timers.jpg"
 category: "App Updates"
 readingTime: 5
 
