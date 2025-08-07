@@ -94,7 +94,3 @@ This is built specifically for:
 * **Podcast and content creators**
 
 No more missed footage. No more guesswork. Just smooth, continuous takes — even with the most limiting gear.
-
----
-
-👉 [Download BT Cam](https://btcam.app) and take control of your time — one frame at a time.
